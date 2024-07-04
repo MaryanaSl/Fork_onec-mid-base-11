@@ -10,7 +10,7 @@
   <name>Доработка_Должности</name>
   <synonym>
     <key>ru</key>
-    <value>Доработка должности</value>
+    <value>Должности</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Доработка_Должности.StandardAttribute.Code</inputByString>
