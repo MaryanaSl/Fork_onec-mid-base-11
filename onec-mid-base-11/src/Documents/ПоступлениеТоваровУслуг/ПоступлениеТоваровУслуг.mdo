@@ -156,7 +156,7 @@
     <name>Доработка_КонтактноеЛицо</name>
     <synonym>
       <key>ru</key>
-      <value>Доработка контактное лицо</value>
+      <value>Контактное лицо</value>
     </synonym>
     <type>
       <types>CatalogRef.Доработка_КонтактныеЛица</types>
